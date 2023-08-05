@@ -1,0 +1,12 @@
+{
+  "name": "next-stack",
+  "version": "1.0.0",
+  "description": "Template that uses NextJS 13 app directory, NextUI 2, prisma, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["next", "nextjs", "nextui", "tailwind", "prisma"],
+  "author": "Sinan Karakaya - Feisar",
+  "license": "MIT"
+}

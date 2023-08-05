@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+  whatshere:
+    container_name: mydb
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    env_file:
+      - .env
